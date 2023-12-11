@@ -32,27 +32,27 @@ Upon successful execution, you can anticipate a well-prepared dataset stored in 
 The resultant prepared data should be precisely in the below-mentioned format.
 ```
 train/	|-- images/
-				|   |-- 1.jpg
-				|   |-- 2.jpg
-				|   |-- ...
-			|-- labels/
-				|   |-- 1.jpg
-				|   |-- 2.jpg
-				|   |-- ...
-				|
+		|   |-- 1.jpg
+		|   |-- 2.jpg
+		|   |-- ...
+	|-- labels/
+		|   |-- 1.jpg
+		|   |-- 2.jpg
+		|   |-- ...
+		|
 val/	|-- images/
-				|   |-- 1.jpg
-				|   |-- 2.jpg
-				|   |-- ...
-			|-- labels/
-				|   |-- 1.jpg
-				|   |-- 2.jpg
-				|   |-- ...
-				|
+		|   |-- 1.jpg
+		|   |-- 2.jpg
+		|   |-- ...
+	|-- labels/
+		|   |-- 1.jpg
+		|   |-- 2.jpg
+		|   |-- ...
+		|
 test/	|-- images/
-			|   |-- 1.jpg
-			|   |-- 2.jpg
-			|   |-- ...
+		|   |-- 1.jpg
+		|   |-- 2.jpg
+		|   |-- ...
 ```
 
 ## Model taining
